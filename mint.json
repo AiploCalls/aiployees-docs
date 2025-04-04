@@ -136,14 +136,6 @@
       ]
     },
     {
-      "group": "White Label Program",
-      "pages": [
-        "white-label/overview",
-        "white-label/onboarding",
-        "white-label/plans-setup"
-      ]
-    },
-    {
       "group": "Troubleshooting & FAQs",
       "pages": [
         "troubleshooting/voice-problems",
