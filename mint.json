@@ -24,10 +24,10 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://autocalls.ai"
+    "url": "https://aiployees.com"
   }, {
     "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "url": "https://aiployees.com/book-a-meeting/"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
@@ -38,11 +38,6 @@
     "icon": "wand-magic-sparkles",
     "color": "#6c63ff",
     "url": "automation-platform"
-  }, {
-    "name": "White Label",
-    "icon": "tag",
-    "color": "#ff0142",
-    "url": "white-label"
   }, {
     "name": "API Reference",
     "icon": "code",
