@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Aiployees",
   "logo": {
-    "dark": "/resources/logo/white logo AIPloyees long no slogan.png",
-    "light": "/resources/logo/AIPloyees master logo long no slogan.png"
+    "dark": "/resources/AIPloyees white logo size.png",
+    "light": "AIPloyees master logo size.png"
   },
   "favicon": "favicon.png",
   "colors": {
