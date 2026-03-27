@@ -17,7 +17,7 @@
   },
   "topAnchor": {
     "name": "Platform Guide",
-    "icon": "book"
+    "icon": "book", "url": "introduction/what-is-aiployees"
   },
   "sidebar": {
     "items": "card"
@@ -182,7 +182,7 @@
       ]
     }
   ],
-  "footerSocials": {
+  "redirects": [{"source": "/platform-guide/overview", "destination": "/introduction/what-is-aiployees"}], "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/aiployees"
   },
   "api": {
