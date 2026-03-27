@@ -182,7 +182,9 @@
       ]
     }
   ],
-  "redirects": [{"source": "/platform-guide/overview", "destination": "/introduction/what-is-aiployees"}], "footerSocials": {
+  "redirects": [{"source": "/platform-guide/overview", "destination": "/introduction/what-is-aiployees"}
+  ],
+  "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/aiployees"
   },
   "api": {
